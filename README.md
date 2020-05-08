@@ -84,7 +84,7 @@ Place the plugin in the following directory and enjoy: 'C:\Program Files\Wiresh
 **More information on the plugin settings and controls can be found here:**
 
 
-[http://www.myskypelab.com/2014/05/microsoft-lync-wireshark-plugin.html](http://www.myskypelab.com/2014/05/microsoft-lync-wireshark-plugin.html)
+[http://www.myteamslab.com/2014/05/microsoft-lync-wireshark-plugin.html](http://www.myskypelab.com/2014/05/microsoft-lync-wireshark-plugin.html)
 
 
  
